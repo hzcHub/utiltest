@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/exwar" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/reactive/pom.xml" />
+        <option value="$PROJECT_DIR$/exwar/pom.xml" />
+        <option value="$PROJECT_DIR$/datasource-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/zkpro/pom.xml" />
+        <option value="$PROJECT_DIR$/useeureka/pom.xml" />
+        <option value="$PROJECT_DIR$/neweureka/pom.xml" />
+        <option value="$PROJECT_DIR$/sun2/pom.xml" />
+        <option value="$PROJECT_DIR$/sun1/pom.xml" />
+        <option value="$PROJECT_DIR$/mqproject/pom.xml" />
+        <option value="$PROJECT_DIR$/demo4/pom.xml" />
+        <option value="$PROJECT_DIR$/demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo-1.1.0/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/provider2/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

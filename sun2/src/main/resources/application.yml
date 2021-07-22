@@ -1,0 +1,33 @@
+server:
+  port: 8082
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:8761/eureka/ #注册到刚才那台Eureka Server地址
+spring:
+  application:
+    name: client-1
+  rabbitmq:
+    host: 192.168.1.106
+    username: admin
+    password: 123
+    port: 5672
+    publisher-confirm-type: correlated
+    publisher-returns: true
+#  datasource:
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    url: jdbc:mysql://192:168:1:100:3306/ys_znjx
+#    username: root
+#    password: root
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    schema: Schema.sql
+
+
+rabbitmq:
+  host: 192.168.1.108
+  userName: guest
+  password: guest
+  port: 5672
+  sendQueueName: test
+  receiverQueueName: test
+

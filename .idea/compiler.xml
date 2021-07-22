@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo3" />
+        <module name="demo4" />
+        <module name="useeureka" />
+        <module name="kafka-demo-1.1.0" />
+        <module name="demo (1) (com.target.datasource)" />
+        <module name="demo" />
+        <module name="mqproject" />
+        <module name="sun2" />
+        <module name="exwar" />
+        <module name="reactive" />
+        <module name="sun1" />
+        <module name="common" />
+        <module name="provider" />
+        <module name="zkpro" />
+        <module name="demo (2) (com.example)" />
+        <module name="neweureka" />
+        <module name="consumer" />
+        <module name="datasource-jdbc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="provider (1)" target="1.8" />
+      <module name="provider2" target="1.8" />
+      <module name="provider3" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boot" options="-parameters" />
+      <module name="common" options="-parameters" />
+      <module name="consumer" options="-parameters -verbose -bootclasspath &quot;F:/Program Files/Java/jdk1.8.0_131/jre\lib\rt.jar;F:/Program Files/Java/jdk1.8.0_131/jre\lib\jce.jar&quot;" />
+      <module name="datasource-jdbc" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo (1) (com.target.datasource)" options="-parameters" />
+      <module name="demo (2) (com.example)" options="-parameters" />
+      <module name="demo3" options="-parameters" />
+      <module name="demo4" options="-parameters" />
+      <module name="exwar" options="-parameters" />
+      <module name="mqproject" options="-parameters" />
+      <module name="neweureka" options="-parameters" />
+      <module name="provider" options="-parameters -verbose -bootclasspath &quot;F:/Program Files/Java/jdk1.8.0_131/jre\lib\rt.jar;F:/Program Files/Java/jdk1.8.0_131/jre\lib\jce.jar&quot;" />
+      <module name="provider (1)" options="-parameters" />
+      <module name="provider3" options="-parameters" />
+      <module name="reactive" options="-parameters" />
+      <module name="sun1" options="-parameters" />
+      <module name="sun2" options="-parameters" />
+      <module name="useeureka" options="-parameters" />
+      <module name="zkpro" options="-parameters" />
+    </option>
+  </component>
+</project>

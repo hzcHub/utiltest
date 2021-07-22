@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/datasource-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo3/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo3/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo4/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo4/src/main/resources/application.yml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/exwar/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mqproject/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mqproject/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neweureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/neweureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/reactive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sun1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sun1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sun2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/useeureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/useeureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zkpro/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
